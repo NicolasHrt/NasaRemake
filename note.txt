@@ -1,0 +1,3 @@
+Rajouter le menu burger pour le responsive 
+Rajouter un footer 
+Rajouter un carrousel avec des planetes et leur caractéristiques
